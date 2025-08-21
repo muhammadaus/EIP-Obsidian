@@ -1,0 +1,15 @@
+{
+  "name": "eip-obsidian",
+  "version": "1.0.0",
+  "description": "Obisidian graph for Ethereum EIPs",
+  "main": "erc-7731-ledger-simulation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}
